@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-        <title>Welcome To Quiz_Management_System</title>
+        <title>Welcome to Quiz-Management-System</title>
         <link rel="stylesheet" type="text/css" href="../css/welcome.css"/>
         <style type = "text/css">
             body {
@@ -26,7 +26,7 @@
     <body>
         <center>
             <div class="intro">
-                <h1> Online Quiz System </h1>
+                <h1>Online Quiz System</h1>
                 <a href="p_login.php" class="btn"> login </a> &emsp;
                 <a href="p_register.php" class="btn"> register </a>
                 <h2> Good &nbsp;Luck. </h2>
